@@ -1,7 +1,7 @@
 [
   {
     "name": "New MasterTopik",
-    "url": "https://www.mastertopik.com",
+    "url": "https://www.mastertopik.com/api/v1/courses?name=504&page=0&size=8",
     "icon": "https://favicons.githubusercontent.com/www.mastertopik.com",
     "slug": "new-master-topik",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1232,
-    "timeDay": 1232,
-    "timeWeek": 1232,
-    "timeMonth": 1232,
-    "timeYear": 1232,
+    "time": 1222,
+    "timeDay": 1222,
+    "timeWeek": 1222,
+    "timeMonth": 1222,
+    "timeYear": 1222,
     "dailyMinutesDown": {}
   }
 ]
