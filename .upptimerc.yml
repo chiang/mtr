@@ -2,7 +2,7 @@ owner: chiang # GitHub username
 repo: mtr # GitHub repository name
 sites: # List of endpoints to track
   - name: New MasterTopik
-    url: https://www.mastertopik.com
+    url: https://www.mastertopik.com/api/v1/courses?name=504&page=0&size=8
 status-website: # Status website (optional)
   baseUrl: /mtr # where "repo" is your repository name
   name: MasterTopik Uptime
