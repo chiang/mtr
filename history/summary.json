@@ -4,7 +4,7 @@
     "url": "https://www.mastertopik.com/api/v1/courses?name=504&page=0&size=8",
     "icon": "https://favicons.githubusercontent.com/www.mastertopik.com",
     "slug": "new-master-topik",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1431,
     "timeDay": 1370,
-    "timeWeek": 1470,
+    "timeWeek": 1462,
     "timeMonth": 1431,
     "timeYear": 1431,
     "dailyMinutesDown": {}
