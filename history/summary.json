@@ -4,17 +4,17 @@
     "url": "https://www.mastertopik.com/api/v1/courses?name=504&page=0&size=8",
     "icon": "https://favicons.githubusercontent.com/www.mastertopik.com",
     "slug": "new-master-topik",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1458,
-    "timeDay": 1564,
-    "timeWeek": 1488,
-    "timeMonth": 1458,
-    "timeYear": 1458,
+    "time": 1471,
+    "timeDay": 1778,
+    "timeWeek": 1530,
+    "timeMonth": 1471,
+    "timeYear": 1471,
     "dailyMinutesDown": {}
   }
 ]
